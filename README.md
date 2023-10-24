@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
 
 ###
 
@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">- 🔭 I'm currently working on personal projects.<br>- 📚 I'm learning **Project Development**.<br>- 🌱 Recent BE in IT graduate.<br>- 📫 You can reach me at **anmoldhar4@gmail.com**</p>
+- 🔭 I'm currently working on personal projects.
+- 📚 I'm learning **Project Development**.
+- 🌱 Recent BE in IT graduate.
+- 📫 You can reach me at **anmoldhar4@gmail.com**
 
 ###
 
